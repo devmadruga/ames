@@ -1,8 +1,6 @@
 # :house_with_garden: Ames Residential Home Sales :house_with_garden:
 
-#### Existe uma pessoa em formação na área de Dados que nunca tenha utilizado o Ames DataSet?? :rofl:
-
-#### Pois, aqui vai... :point_down: :point_down: :point_down:
+#### Neste repositório, mostro o uso do Numpy, Pandas, Seaborn e Scikit-Learn em uma Análise Exploratória de Dados no Ames DataSet.
 
 # :speech_balloon: Sobre este Repositório
 
@@ -16,11 +14,9 @@
 
 :black_circle: Implementar um Modelo de Machine Learning que seja capaz de retornar o valor de um imóvel.
 
-#### :point_right: Algumas notas importantes:
+#### :point_right: Nota importante:
 
-:black_medium_small_square: Este estudo feito por mim foi realizado em agosto/setembro de 2021 e os notebooks aqui compartilhados foram reestruturados em setembro de 2022 para melhor apresentação.
-
-:black_medium_small_square: O objetivo do estudo não é colocar um modelo em produção e, sim, mostrar o uso das bibliotecas Numpy, Pandas, Seaborn e Scikit-Learn.
+:black_medium_small_square: O estudo realizado não tem por objetivo final colocar um modelo de machine learning em produção e, sim, mostrar o possível uso das bibliotecas Numpy, Pandas, Seaborn e Scikit-Learn na análise exploratória de dados.
 
 # :mag_right: Onde encontrar o DataSet utilizado?
 
